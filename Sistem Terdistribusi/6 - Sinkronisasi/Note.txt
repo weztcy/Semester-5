@@ -1,0 +1,2 @@
+#Realisasi Materi ke-6
+Mahasiswa mampu memahami apa itu sinkronisasi dan pentingnya sinkronisasi pada sistem tersebar. Mahasiswa juga mengetahui secara singkat teknik-teknik sinkronisasi disertai kondisi-kondisi untuk menerapkan teknik-teknik tersebut.

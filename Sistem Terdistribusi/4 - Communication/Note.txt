@@ -1,0 +1,2 @@
+#Realisasi Materi ke-4
+Mahasiswa mampu menjelaskan bagaimana sistem-sistem yang bergabung dalam suatu sistem tersebar saling berkomunikasi disertai kelebihan dan kekurangan masing-masing teknik komunikasi yang telah dikembangkan.

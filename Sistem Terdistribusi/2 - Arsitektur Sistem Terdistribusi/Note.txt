@@ -1,0 +1,2 @@
+#Realisasi Materi ke-2
+Mahasiswa mampu menjelaskan bagaimana sistem tersebar dimodelkan untuk dipelajari dan dikembangkan untuk menangani permasalahan yang berbeda-beda.

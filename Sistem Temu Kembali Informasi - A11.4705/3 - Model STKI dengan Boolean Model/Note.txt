@@ -1,0 +1,14 @@
+Realisasi Materi ke-3
+
+Capaian Pembelajaran :
+Mahasiswa mampu menjelaskan Boolean Retrieval Model, Incidence Matrix, Inverted Index dan studi kasusnya.
+
+Materi Pembelajaran :
+Boolean Retrieval Model
+Permasalahan STKI
+Incidence Matrix
+Inverted Index
+Studi Kasus
+
+Link video materi :
+https://youtu.be/ulqgWPY86O4

@@ -1,0 +1,3 @@
+Referensi :
+Andrew S. Tanenbaum & Maarten van Steen, Distributed Systems: Principles and Paradigms, Prentice Hall
+George Coulouris, Jean Dollimore & Tim Kindberg, Distributed System : Concept and Design, Addison Wesley

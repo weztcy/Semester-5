@@ -1,0 +1,2 @@
+#Realisasi Materi ke-5
+Mahasiswa mampu memahami perlunya konsep penamaan dan alamat pada sistem tersebar kemudian mengetahui cara-cara menamai sebuah entitas disertai cara menemukan entitas tersebut melalui teknik-teknik flat naming, penamaan tersetruktur, dan penamaan berbasiskan atribut.

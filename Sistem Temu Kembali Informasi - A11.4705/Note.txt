@@ -1,0 +1,34 @@
+Deskripsi Mata Kuliah :
+Matakuliah ini mempelajari tentang konsep dasar dan pemodelan pada Sistem Temu Kembali Informasi. Mahasiswa juga akan diperkenalkan beberapa algoritma klasifikasi dan klastering dalam Sistem Temu Kembali Informasi.
+
+Materi Pembelajaran / Pokok Bahasan :
+Pengenalan Sistem Temu Kembali Informasi.
+Document Preprocessing.
+Model STKI dengan Boolean Model.
+Model STKI dengan Vector Space Model.
+Term Weighting.
+Search Engine Concept.
+Evaluasi.
+Klasifikasi Dokumen dengan Naïve Bayes.
+Klasifikasi Dokumen dengan K-NN.
+Klastering Dokumen dengan K-Means.
+Peringkasan Dokumen Teks.
+Feature Selection.
+Opinion Mining (Sentiment Analysis).
+Web Mining.
+
+Kontrak Kuliah :
+Tugas => 40%
+UTS 	=> 25%
+UAS 	=> 35%
+
+Referensi:
+Manning, C., Raghavan, P., & Schütze, H. (2008). Introduction to Information Retrieval. Cambridge: Cambridge University Press.
+Croft, W. B., Metzler, D., & Strohman, T. (2010). Search engines: Information retrieval in practice. Boston: Addison-Wesley.
+Büttcher, S., Clarke, C. L. A., & Cormack, G. V. (2010). Information retrieval: Implementing and evaluating search engines. Cambridge, Mass: MIT Press.
+
+Kontak dosen:
+Nama Dosen Pengampu : Junta Zeniarja, M.Kom
+No Hp			  : 
+email			  : junta@dsn.dinus.ac.id
+Ruang Dosen		  : H.2.1

@@ -1,0 +1,12 @@
+Realisasi Materi ke-1
+
+Capaian Pembelajaran :
+Mahasiswa mampu menjelaskan konsep Sistem Temu Kembali Informasi dan perkembangannya.
+
+Materi Pembelajaran :
+Database Retrieval vs Sistem Temu Kembali Informasi.
+Pengertian Sistem Temu Kembali Informasi.
+Perkembangan Sistem Temu Kembali Informasi.
+
+Link video materi :
+https://youtu.be/GL5bw4Bbj6M

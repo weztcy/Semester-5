@@ -1,0 +1,2 @@
+#Realisasi Materi ke-3
+Mahasiswa mampu menjelaskan mengenai pengertian Konsep proses dan thread, virtualisasi dalam sistem terdistribusi.

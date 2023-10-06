@@ -1,0 +1,3 @@
+#Realisasi Materi ke-7
+- Mahasiswa mampu menjelaskan definisi dan manfaat dari replikasi pada sistem terdistribusi disertai pentingnya konsistensi hasil replikasi.
+- Mahasiswa juga mengetahui berbagai macam model konsistensi yang dikembangkan dan protokol-protokol yang digunakan dalam proses menjaga konsistensi replika.

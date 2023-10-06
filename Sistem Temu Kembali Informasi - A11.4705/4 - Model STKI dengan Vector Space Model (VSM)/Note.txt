@@ -1,0 +1,14 @@
+Realisasi Materi ke-4
+
+Capaian Pembelajaran :
+Mahasiswa mampu menjelaskan Vector Space Model, Similarity dan studi kasusnya
+
+Materi Pembelajaran :
+Konsep Vector Space Model
+Similarity
+Angular Similarity
+Document Ranking
+Studi Kasus
+
+Link Video Materi :
+https://youtu.be/ZGLgRWVPz34
