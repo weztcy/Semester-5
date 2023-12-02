@@ -1,0 +1,12 @@
+Realisasi Materi ke-8
+
+Capaian Pembelajaran :
+Mahasiswa mampu menjelaskan konsep Klasifikasi Dokumen Teks dengan algoritma Naïve Bayes.
+
+Materi Pembelajaran :
+Klasifikasi Teks.
+Naïve Bayes Classifier (NBC).
+Studi Kasus.
+
+Link video materi:
+https://youtu.be/woOXBlUDG08
