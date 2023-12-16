@@ -1,0 +1,9 @@
+Realisasi Materi ke-12
+
+Capaian Pembelajaran 
+Mahasiswa mampu menjelaskan konsep Feature Selection pada Sistem Temu Kembali Informasi.
+
+Materi Pembelajaran 
+Penerapan Klasifikasi Teks
+Metode Seleksi Fitur
+Beberapa Teknik Seleksi Fitur.
