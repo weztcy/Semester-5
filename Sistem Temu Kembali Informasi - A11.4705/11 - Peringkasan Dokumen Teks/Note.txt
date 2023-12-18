@@ -1,0 +1,10 @@
+Realisasi Materi ke-11
+
+Capaian Pembelajaran :
+Mahasiswa mampu menjelaskan konsep Peringkasan Dokumen Teks.
+
+Materi Pembelajaran :
+Peringkasan Dokumen Teks
+Feature Based
+Latent Semantic Analysis
+

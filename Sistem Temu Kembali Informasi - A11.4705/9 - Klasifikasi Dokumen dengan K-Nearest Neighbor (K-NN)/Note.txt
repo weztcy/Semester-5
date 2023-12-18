@@ -1,0 +1,14 @@
+Realisasi Materi ke-9
+
+Capaian Pembelajaran :
+Mahasiswa mampu menjelaskan konsep Klasifikasi Dokumen Teks dengan algoritma K-Nearest Neighbor (K-NN).
+
+Materi Pembelajaran :
+Karakteristik K-NN
+Penerapan K-NN
+Kelebihan & Kekurangan K-NN
+Tahapan Klasifikasi K-NN
+Studi Kasus
+
+Link video materi:
+https://youtu.be/sUc27iM_8ag

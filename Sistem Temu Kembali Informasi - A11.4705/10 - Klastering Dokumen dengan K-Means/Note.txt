@@ -1,0 +1,14 @@
+Realisasi Materi ke-10
+
+Capaian Pembelajaran :
+Mahasiswa mampu menjelaskan konsep Klastering Dokumen Teks dengan algoritma K-Means.
+
+Materi Pembelajaran :
+Clustering Text
+Algoritma Clustering
+Partitional Algorithm
+K-Means Clustering
+Studi Kasus
+
+Link video materi:
+https://youtu.be/q0aOchsPAL8
