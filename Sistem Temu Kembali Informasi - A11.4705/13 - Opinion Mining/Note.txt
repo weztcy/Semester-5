@@ -1,0 +1,8 @@
+Realisasi Materi ke-13
+
+Capaian Pembelajaran :
+Mahasiswa mampu menjelaskan tentang Opinion Mining (Sentiment Analysis).
+
+Materi Pembelajaran :
+Konsep Opinion Mining
+Beberapa contoh Opinion Mining

@@ -1,0 +1,15 @@
+Realisasi Materi ke-14
+
+Capaian Pembelajaran : 
+Mahasiswa mampu menjelaskan konsep Web Mining dan contoh penerapannya. 
+
+Materi Pembelajaran : 
+Pengenalan
+Tantangan Pengolahan Data Web
+Konsep Web Mining
+Web Content Mining
+Web Structure Mining
+Web Usage Mining
+
+Link video materi:
+https://youtu.be/Q90PkWBTfHk
