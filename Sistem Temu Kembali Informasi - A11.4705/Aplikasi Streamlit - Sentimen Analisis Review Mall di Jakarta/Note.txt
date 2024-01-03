@@ -1,0 +1,14 @@
+1. Open terminal
+   Run cmd on app path folder
+
+2. Create new python virtual environment (opsional)
+   Command -> py -m venv venv
+
+3. Need to install:
+   - Streamlit
+   - scikit-learn
+   - NLTK
+   Command -> pip install
+
+4. Run Streamlit
+   Command -> Streamlit run app.py
